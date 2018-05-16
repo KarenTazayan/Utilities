@@ -1,0 +1,2 @@
+#Git pushes with wrong user from terminal
+git config --system --unset credential.helper
